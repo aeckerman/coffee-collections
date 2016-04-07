@@ -8,7 +8,7 @@ var goToStarbucks = function () {
 	print("*Drives all the to Augusta to get frappe.*");
 	print("*Returns from Augusta.*");
 
-	coffee += 100;
+	coffee += 10;
 
 	showSupply();
 };
